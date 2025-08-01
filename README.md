@@ -1,6 +1,6 @@
 # 📒 MERN Notes App - Fullstack Application
 
-This is a fullstack notes application built with the **MERN** stack (MongoDB, Express.js, React, Node.js). It allows users to register, log in securely, and manage their personal notes through a clean and intuitive interface.
+This is a fullstack notes application built with the **MERN** stack (MySQL, Express.js, React, Node.js). It allows users to register, log in securely, and manage their personal notes through a clean and intuitive interface.
 
 ---
 
@@ -9,7 +9,7 @@ This is a fullstack notes application built with the **MERN** stack (MongoDB, Ex
 - 🔐 User registration and login with JWT authentication
 - 📝 Create, edit, and delete notes
 - 🧑‍💻 Protected routes for authenticated users
-- 💾 MongoDB integration for data persistence
+- 💾 MySQL integration for data persistence
 - ⚛️ Modern and responsive frontend built with React
 
 ---
@@ -18,7 +18,7 @@ This is a fullstack notes application built with the **MERN** stack (MongoDB, Ex
 
 - **Frontend:** React, React Router, Context API / Redux
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB + Mongoose
+- **Database:** MySQL + mysql2
 - **Authentication:** JSON Web Tokens (JWT)
 - **Other Tools:** Axios, bcrypt, dotenv
 
@@ -28,7 +28,7 @@ This is a fullstack notes application built with the **MERN** stack (MongoDB, Ex
 
 ### Prerequisites
 - Node.js
-- MongoDB
+- MySQL
 
 ### 1. Clone the repository
 
